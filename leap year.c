@@ -12,12 +12,12 @@ int main()
            
            else
            
-               printf("No");
+               printf("no");
            
        }
        else
        
-           printf("Yes");
+           printf("yes");
        
    }
            
